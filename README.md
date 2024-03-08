@@ -12,3 +12,19 @@ Contents
     Model Building: Implements machine learning models to predict hotel reservations.
     Model Evaluation: Evaluates model performance using appropriate metrics.
     Conclusion: Summarizes findings and suggests possible areas for improvement.
+
+Usage
+
+    Dataset: Download the Hotel Booking Demand dataset from Kaggle (https://www.kaggle.com/jessemostipak/hotel-booking-demand).
+    Environment Setup: Ensure that Python and necessary libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn are installed.
+    Notebook Execution: Run the notebook cell by cell to execute the code and view the results.
+    Interpretation: Analyze the outputs, visualizations, and model performance to draw conclusions.
+
+Acknowledgments
+
+    Dataset: "Hotel Booking Demand" dataset by Nuno Antonio, Ana Almeida, and Luis Nunes on Kaggle.
+    Inspiration: This notebook draws inspiration from various sources on Kaggle, Stack Overflow, and data science blogs.
+
+License
+
+This notebook is released under the MIT License, which allows for both personal and commercial use with proper attribution. Please refer to the LICENSE file for more details.
